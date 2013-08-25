@@ -6,6 +6,11 @@ Disclaimer
 ========
 Mungkin ada persyaratan yang berubah, tolong panduan ini hanya dipandang sebagai referensi. Ini bukan panduan resmi dari ITS. Jika anda mengetahui ada perubahan aturan dsb, silahkan fork repo ini, dan ajukan pull request.
 
+Kutukan
+======
+Untuk mempermudah, saya menyediakan contoh proposal & buku tesis. Anda boleh menggunakan itu untuk kepentingan yang benar (meniru format dsb).
+Sekiranya anda menggunakan contoh proposal & buku tesis yang saya share dengan tidak senonoh (misal dipublikasikan dengan nama anda sendiri), maka saya mendoakan supaya anda menderita seumur hidup, dan umur anda diperpanjang sepanjang-panjangnya.
+
 Lisensi
 ======
 Lisensi tulisan ini adalah `Creative Common`. Anda bebas memanfaatkan, mendownload dan membagikan tulisan ini pada orang lain.
@@ -32,7 +37,7 @@ Membantu penulis asli berkelana dan bertualang untuk menjilid buku tesis, fotoco
 Dosen di ITATS. Membantu penulis asli untuk mempublish jurnal untuk persyaratan yudisium.
 
 * Sonny Christiano Gossaria (dikenal sebagai `Sonny`. Pemilik Sony Vaio)
-Alumni UK Petra, Sillent but deadly. Memiliki hasil test TOEFL dengan nilai test tertinggi. Ahli dalam permasalahan `anime` dan `manga`.
+Alumni UK Petra, _Sillent but deadly_. Memiliki hasil test TOEFL dengan nilai tertinggi. Ahli dalam permasalahan `anime` dan `manga`.
 
 * Putra Prima (dikenal sebagai `Prima` atau `Jon`, pemilik Ubisoft, eh salah, ubielab maksudnya)
 Programmer sekaligus web designer handal. Pastikan anda meng-hire orang ini untuk menyelesaikan seluruh permasalahan anda.
@@ -60,6 +65,7 @@ Sillent but deadly, tiba-tiba semua persyaratan yudisium nya sudah selesai.
 * Ary Indra I. (anggota `Geng Bali`)
 * Imamah
 * Dewi Widya
+* Rigga
 * Munjiah Nur Saidah
 * Li Yu Ku
 * Wahyu Andhika
@@ -81,10 +87,10 @@ Bagian 01. Kuliah
 Bagian 02. Proposal Tesis
 ======================
 * Tesis bisa anda ajukan di semester 3. Sebaiknya, anda serius waktu membuat proposal tesis di mata kuliah Metpen, sehingga proposal tersebut bisa menjadi proposal tesis yang sesungguhnya. Sebelum mengajukan tesis, hubungi dosen pembimbing yang anda incar (atau yang menawarkan diri untuk membimbing anda).
-* Proposal tesis yang sudah jadi, dan disetujui oleh dosen pembimbing (__WARNING:__ Jangan dijilid dulu) bisa diajukan untuk seminar/ujian proposal (__WARNING:__ Dress code: kemeja putih, bawahan hitam). Yang harus anda siapkan untuk ujian ini adalah presentasi dan mental :D. Dalam ujian ini, anda akan didampingi oleh dosen pembimbing, dan dihadapkan pada dewan penguji (3 orang).
-* Revisi proposal tesis (pasti ada revisinya), harus segera anda kerjakan (__WARNING:__ Jangan dijilid dulu). Lalu anda harus meminta acc (tanda tangan) lembar pengesahan dari dewan penguji (3 dosen) dan dosen pembimbing.
-* Setelah lembar pengesahan anda ditandatangani oleh dewan penguji dan dosen pembimbing, silahkan difoto-copy 3 kali, masing-masing dijilid dengan cover putih glossy (__WARNING:__lebih detailnya, coba minta contoh ke Bu Sri atau Bu Eva di RBTC (perpustakan jurusan informatika), format jangan sampai salah). Keempat proposal tesis yang sudah dijilid itu kemudian diserahkan kepada pihak-pihak berikut
-   - Perpustakaan pasca-sarjana yang terletak di lantai satu gedung pasa-sarjana, sebelah gedung UPT (__WARNING__: perpustakaan pasca-sarjana berbeda dengan perpustakaan pusat). Di sini anda akan mendapatkan bukti tanda terima telah menyerahkan proposal. Simpan baik-baik. Ini akan berguna jika seandainya (entah bagaimana) proposal yang sudah anda kumpulkan hilang. Dalam pengalaman pribadi saya, bukti tanda terima itu tidak pernah dibutuhkan.
+* Proposal tesis yang sudah jadi, dan disetujui oleh dosen pembimbing ( __WARNING:__ Jangan dijilid dulu) bisa diajukan untuk seminar/ujian proposal ( __WARNING:__ Dress code: kemeja putih, bawahan hitam). Yang harus anda siapkan untuk ujian ini adalah presentasi dan mental :D. Dalam ujian ini, anda akan didampingi oleh dosen pembimbing, dan dihadapkan pada dewan penguji (3 orang).
+* Revisi proposal tesis (pasti ada revisinya), harus segera anda kerjakan ( __WARNING:__ Jangan dijilid dulu). Lalu anda harus meminta acc (tanda tangan) lembar pengesahan dari dewan penguji (3 dosen) dan dosen pembimbing.
+* Setelah lembar pengesahan anda ditandatangani oleh dewan penguji dan dosen pembimbing, silahkan difoto-copy 3 kali, masing-masing dijilid dengan cover putih glossy ( __WARNING:__lebih detailnya, coba minta contoh ke Bu Sri atau Bu Eva di RBTC (perpustakan jurusan informatika), format jangan sampai salah). Keempat proposal tesis yang sudah dijilid itu kemudian diserahkan kepada pihak-pihak berikut
+   - Perpustakaan pasca-sarjana yang terletak di lantai satu gedung pasa-sarjana, sebelah gedung UPT ( __WARNING__: perpustakaan pasca-sarjana berbeda dengan perpustakaan pusat). Di sini anda akan mendapatkan bukti tanda terima telah menyerahkan proposal. Simpan baik-baik. Ini akan berguna jika seandainya (entah bagaimana) proposal yang sudah anda kumpulkan hilang. Dalam pengalaman pribadi saya, bukti tanda terima itu tidak pernah dibutuhkan.
    - RBTC (perpustakaan di jurusan informatika), dari sini anda akan mendapatkan senyuman ramah dari penjaga perpustakaan :)
    - Dosen pembimbing (Ada beberapa dosen pembimbing yang tidak meminta proposal)
    - Anda sendiri.
@@ -92,7 +98,7 @@ Bagian 02. Proposal Tesis
 
 Bagian 03. Hal-hal lain yang penting
 ================================
-* Selama pengerjaan tesis, atau kalau bisa sekitar semester 2, sebaiknya anda melakukan test TOEFL di UPT bahasa (letaknya di antara PENS dan graha ITS, belakangnya fakultas teknik industri). Nilai minimal yang harus anda dapatkan adalah 477. Hasil test TOEFL ini diperlukan untuk persyaratan yudisium. Jika anda berhasil lulus dengan nilai di atas atau sama dengan 477, silahkan meminta surat keterangan lulus (__WARNING__: walaupun saya bilang `meminta`, tapi anda harus merogoh kocek sekitar 2000 IDR per lembar) sebanyak 3 lembar. Nantinya, akan dibutuhkan untuk yudisium. Jika nilai TOEFL anda di atas 500, anda boleh meminta sertifikat (__WARNING__: 7500 IDR per lembar, dan harus membawa foto `grayscale` 3x4 cm). Lihat bagian `Trivia` untuk keterangan lebih lanjut mengenai kata `grayscale`.
+* Selama pengerjaan tesis, atau kalau bisa sekitar semester 2, sebaiknya anda melakukan test TOEFL di UPT bahasa (letaknya di antara PENS dan graha ITS, belakangnya fakultas teknik industri). Nilai minimal yang harus anda dapatkan adalah 477. Hasil test TOEFL ini diperlukan untuk persyaratan yudisium. Jika anda berhasil lulus dengan nilai di atas atau sama dengan 477, silahkan meminta surat keterangan lulus ( __WARNING__: walaupun saya bilang `meminta`, tapi anda harus merogoh kocek sekitar 2000 IDR per lembar) sebanyak 3 lembar. Nantinya, akan dibutuhkan untuk yudisium. Jika nilai TOEFL anda di atas 500, anda boleh meminta sertifikat ( __WARNING__: 7500 IDR per lembar, dan harus membawa foto `grayscale` 3x4 cm). Lihat bagian `Trivia` untuk keterangan lebih lanjut mengenai kata `grayscale`.
 * Setelah tesis anda mulai berwujud (baca: hampir selesai), silahkan mulai dipublikasikan ke jurnal atau seminar. Ini diperlukan sebagai persyaratan yudisium. Jika anda mempublish ke seminar, pastikan seminar telah terlaksana sebelum tanggal yudisium. Minta sertifikat telah melaksanakan seminar, atau Letter of Acceptance dari penyelenggara jurnal/seminar. Nanti sertifikat/LOA itu dibutuhkan untuk yudisium.
 
 Bagian 04. Seminar Pra-Tesis
@@ -114,10 +120,45 @@ Bagian 05. Ujian tesis
 
 Bagian 06. Yudisium
 =================
-* Ada 11 persyaratan yang harus anda penuhi untuk benar-benar bisa ikut wisuda (akan saya lanjutkan nanti).
+Ada 13 persyaratan yang harus anda penuhi untuk ikut yudisium (di lembar resminya ada 11, tapi saya tulis 13 untuk memudahkan pembagiannya). Anda akan diberi (kalau minta) checklist persyaratan yudisium oleh sekretariat pascasarjana teknik informatika. Berikut adalah apa yang tercantum di chekclist tersebut:
+* Lulus semua matakuliah sesuai dengan yang tercantum di `Bagian 01` tulisan ini. Untuk membuktikan anda sudah memenuhi syarat ini, silahkan print laporan transkrip dari http://akademik.its.ac.id. Sebelum melakukan ini, silahkan anda masukkan data judul tesis di website yang sama.
+* Lulus ujian tesis, termasuk menyelesaikan semua revisi. Untuk membuktikan ini, anda harus melampirkan form bebas tanggungan dosen pembimbing yang (tentu saja) ditandatangani oleh dosen pembimbing. Pastikan para dosen penguji & pembimbing telah menandatangani lembar-lembar pengesahan tesis (sebanyak jumlah buku yang anda perlukan) & form revisi (didapatkan waktu ujian). Setelah lembar-lembar pengesahan tesis anda ditandatangani penguji dan pembimbing, segera fotocopy content tesis anda, sertakan lembar-lembar pengesahan tadi, dan jilid sesuai dengan yang anda perlukan, lalu bawa ke pascasarjana supaya ditandatangani direktur pascasarjana. Mungkin butuh satu atau dua hari. Sementara anda menunggu buku tesis anda ditandatangani, kerjakan hal-hal yang lain ( __PS:__ Jumlah buku yang anda perlukan adalah `jumlah_dosen_pembimbing_yang_minta + 3 + jumlah_yang_anda_inginkan_untuk_arsip_pribadi`. 3 di sini adalah jumlah wajib, 1 untuk RBTC, 1 untuk perpustakaan pascasarjana, 1 untuk perpustakaan pusat)
+* Mengisi form wisudawan. Ada 2 macam form wisudawan. Form pertama diisi di akademik.its.ac.id, form kedua berbentuk kertas berwarna biru, bisa diminta di lab S2 ITS (Mas Kunto)
+* Fotocopy ijazah S1
+* Foto close up grayscale (3x4) sebanyak 3 lembar dengan background putih, berdasi dan ber jas ( __WARNING:__ bukan jas hujan). Foto tersebut dicetak (atau di print) di kertas dof (tidak mengkilap), ditulis nama dan NRP di balik masing-masing lembarnya, dan diletakkan dalam plastik kecil.
+* Sertifikat/surat keterangan lulus TOEFL dari UPT bahasa dengan nilai lebih besar atau sama dengan 477. Yang diberikan adalah sertifikat TOEFL asli (bukan fotocopy). Anda harus menyiapkan minimal 2 sertifikat/surat asli. Yang pertama digunakan di sini, yang lain akan diserahkan ke pascasarjana pusat ITS 
+* Fotocopy surat keterangan telah mengikuti seminar/jurnal. Form ini dikenal pula dengan sebutan Form PB1. Bisa diambil di pascasarjana ITS. Form ini membutuhkan tanda tangan dari kepala pascasarjana jurusan (Pak Waskito)
+* Fotocopy sertifikat publikasi & copy makalah. (Siapkan 2 buah juga, yang satunya untuk pascasarjana pusat ITS)
+* Surat bebas Lab S2. Surat bisa diminta di lab S2 ITS (Mas Kunto)
+* Bukti bebas RBTC. Bukti ini bisa anda dapatkan dengan cara menyerahkan CD dan buku tesis ke RBTC. Yang perlu anda letakkan ke dalam CD adalah (lebih lengkapnya silahkan dilihat di http://rbtc.if.its.ac.id/v3/index.php?p=berita):
+   - Soft copy buku tesis anda (doc & pdf). Masing-masing tersekuriti, tidak bisa di copy, tidak bisa di print, dan di watermark dengan tulisan "RBTC". ( __WARNING:__ File __tidak__ dipecah-pecah seperti pada CD perpus pusat)
+   - Soft copy proposal tesis (doc & pdf). Masing-masing tersekuriti
+   - File presentasi (ppt & pdf). Masing-masing tersekuriti
+   - File makalah paper (doc & pdf). Masing-masing tersekuriti
+   - Source code program
+   - Petunjuk pemakaian software
+   - Referensi yang dipakai
+* Bukti kelengkapan data dari pascasarjana. Bukti ini bisa anda dapatkan dengan cara menyerahkan CD dan buku tesis ke ruang baca pascasarjana. Di sini anda akan diberi bukti yang harus ditandatangani oleh staff di lantai 2. Untuk mendapatkan tandatangan dari staff di lantai 2, anda harus menyertakan sertifikat tes TOEFL asli & bukti telah melakukan publikasi (form PB1) yang telah ditandatangani kepala pascasarjana jurusan (Pak Waskito). CD yang disertakan berisi file-file seperti yang ada di RBTC, namun watermark nya adalah watermark ITS. ( __WARNING:__ File __tidak__ dipecah-pecah seperti pada CD perpus pusat)
+* Bukti bebas perpus pusat. Untuk keterangan lebih lanjut, silahkan buka http://digilib.its.ac.id. Intinya, setelah anda menyerahkan CD tesis (dalam format seperti yang ada di digilib), mengupload file-file tesis (dalam bentuk terpecah-pecah), dan menyerahkan buku tesis, maka anda akan mendapat sebuah surat yang harus ditandatangani oleh 5 orang berbeda di 5 lantai yang berbeda pada perpustakaan pusat.
 
+Semua syarat itu harus anda serahkan kembali ke sekertariat pascasarjana informatika ITS. Selamat, anda telah berhasil mendapatkan tiket menuju graha ITS.
+
+Bagian 07. Tanda tangan Ijazah & pengecekan nama
+===========================================
+Akan ada pengumuman di BAAK tentang jadwal pengecekan nama dan penadatanganan ijazah. Jika anda berdomisili luar kota, maka _nothing you can do_. Mintalah tolong pada teman-teman yang berdomisili di Surabaya untuk mengecek kan. Jika anda berdomisili di Surabaya, jangan pelit-pelit untuk membagi informasi.
 
 Trivia
 =====
 * Jika anda bingung saat membaca tulisan foto `grayscale`, maka dalam bahasa awam, yang dimaksud adalah foto `hitam-putih`. Dalam pengolahan citra digital, gambar hitam-putih atau citra biner, isinya hanya warna hitam dan warna putih saja dan setiap pixel nya berukuran 1 bit `[0,1]`, sedangkan yang saya maksud di sini adalah foto yang ada warna abu-abunya yang setiap pixel nya berukuran 8 bit atau 1 byte `[0, 1,..., 255]`
+* Tips & Trik ke informatika ITS dari Malang (jalur kereta api)
+  - Naik kereta api dari stasiun kota baru  ( __WARNING:__ jangan salah kereta, tanya penjaga kalau ragu, dan sebaiknya jangan sok yakin), berhenti di stasiun wonokromo. Berikut adalah 3 stasiun terakhir yang menandai perjalanan anda sudah dekat: Gedangan, Waru, Wonokromo. Jangan sampai _kebablas_. Tanya penumpang lain jika anda ragu-ragu. Perjalanan dengan kereta api, biasanya agak lama. Pengalaman pribadi, berangkat jam setengah lima, sampai jam delapan.
+  - Dari stasiun Wonokromo, naik angkot P (warnanya kuning pucat) ke terminal Joyoboyo. _Nyegat_nya pas di depan stasiun (tidak usah menyebrang)
+  - Dari terminal Joyoboyo, naik angkot P lagi. Hati-hati, ada 3 lajur angkot P, semuanya sama-sama ke Kenjeran, tapi melalui jalur yang berbeda, pilih yang paling dekat dengan pagar. Supaya aman, tanya sopir atau penumpang "Gebang, Pak?". Kalau dijawab "iya" berarti benar.
+  - Anda akan melewati bundaran besar ITS, jangan berhenti dulu. Angkot P akan masuk melalui samping. Di sana anda akan melihat berturut-turut Graha ITS, UPT bahasa, dan PENS. Berhenti setelah itu. Lalu anda harus berjalan dari sana ke gedung informatika ITS.
+* Tips & Trik ke informatika ITS dari Malang (jalur bus)
+  - Naik bus dari terminal Arjosari. ( __WARNING:__ jangan salah bus)
+  - Jika anda cukup bernyali, silahkan berhenti di pom bensin setelah gerbang tol Waru, lalu menyebrangi tol (ini sebenarnya pelanggaran lho), terus oper bus kecil warna hijau ke Joyoboyo. Di sini anda bisa menghemat waktu sekitar 30 menit. Pengalaman pribadi saya, dari Malang Jam 5, sampai ke ITS jam 8 atau setengah 9
+  - Jika anda lebih suka main aman, berhenti di terminal Bungurasih, naik bus kota ke Joyoboyo.
+  - Dari terminal Joyoboyo, naik angkot P. Hati-hati, ada 3 lajur angkot P, semuanya sama-sama ke Kenjeran, tapi melalui jalur yang berbeda, pilih yang paling dekat dengan pagar. Supaya aman, tanya sopir atau penumpang "Gebang, Pak?". Kalau dijawab "iya" berarti benar.
+  - Anda akan melewati bundaran besar ITS, jangan berhenti dulu. Angkot P akan masuk melalui samping. Di sana anda akan melihat berturut-turut Graha ITS, UPT bahasa, dan PENS. Berhenti setelah itu. Lalu anda harus berjalan dari sana ke gedung informatika ITS.
 
