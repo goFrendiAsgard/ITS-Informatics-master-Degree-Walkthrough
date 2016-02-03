@@ -19,6 +19,8 @@ Penulis
 ======
 Penulis asli dari repo ini adalah Go Frendi Gunawan (dikenal pula dengan sebagai `goFrendiAsgard`), seorang open-source coder, sekaligus dosen junior di sebuah kampus swasta di Malang. Menyukai anime, dan merupakan fans dari band SCANDAL. Memiliki sejumlah repository keren di github, antara lain No-CMS (demo: http://www.getnocms.com) dan kokoropy (demo: http://kokoropy.herokuapp.com). Memiliki kemampuan teknis yang biasa aja, kemampuan bahasa inggris aktif & pasif yang biasa saja, dan kemampuan menyelesaikan masalah administratif yang buruk sekali. Sering lupa tanggal-tanggal penting, dan karenanya tidak mengambil studi di jurusan sejarah. 
 
+Update di 2016 ditambahkan oleh Adrianus Yoza Aprilio.
+
 Donasi
 =====
 Tulisan ini dibuat atas inisiatif pribadi, tanpa ada pendanaan dari pihak manapun. Walaupun anda bebas menggunakan tulisan ini tanpa membayar sepeserpun, namun penulis menghabiskan sejumlah kalori, sejumlah `ampere` arus listrik, beberapa cangkir kopi, dan sedikit akses internet untuk membuat repository ini tersedia.
@@ -147,7 +149,7 @@ Bagian 06. Yudisium
 Ada 13 persyaratan yang harus anda penuhi untuk ikut yudisium (di lembar resminya ada 11, tapi saya tulis 13 untuk memudahkan pembagiannya). Anda akan diberi (kalau minta) checklist persyaratan yudisium oleh sekretariat pascasarjana teknik informatika. Berikut adalah apa yang tercantum di chekclist tersebut:
 * Lulus semua matakuliah sesuai dengan yang tercantum di `Bagian 01` tulisan ini. Untuk membuktikan anda sudah memenuhi syarat ini, silahkan print laporan transkrip dari http://akademik.its.ac.id. Sebelum melakukan ini, silahkan anda masukkan data judul tesis di website yang sama.
 * Lulus ujian tesis, termasuk menyelesaikan semua revisi. Untuk membuktikan ini, anda harus melampirkan form bebas tanggungan dosen pembimbing yang (tentu saja) ditandatangani oleh dosen pembimbing. Pastikan para dosen penguji & pembimbing telah menandatangani lembar-lembar pengesahan tesis (sebanyak jumlah buku yang anda perlukan) & form revisi (didapatkan waktu ujian). Setelah lembar-lembar pengesahan tesis anda ditandatangani penguji dan pembimbing, segera fotocopy content tesis anda, sertakan lembar-lembar pengesahan tadi, dan jilid sesuai dengan yang anda perlukan, lalu bawa ke pascasarjana supaya ditandatangani direktur pascasarjana. Mungkin butuh satu atau dua hari. Sementara anda menunggu buku tesis anda ditandatangani, kerjakan hal-hal yang lain ( __PS:__ Jumlah buku yang anda perlukan adalah `jumlah_dosen_pembimbing_yang_minta + 3 + jumlah_yang_anda_inginkan_untuk_arsip_pribadi`. 3 di sini adalah jumlah wajib, 1 untuk RBTC, 1 untuk perpustakaan pascasarjana, 1 untuk perpustakaan pusat)
-* Mengisi form wisudawan. Ada 2 macam form wisudawan. Form pertama diisi di integra.its.ac.id, form kedua berbentuk kertas yang bisa diminta di Pasca
+* Mengisi form wisudawan. Ada 2 macam form wisudawan. Form pertama diisi di integra.its.ac.id, form kedua berbentuk kertas yang bisa diminta di Pasca IF
 * Fotocopy ijazah S1
 * Foto close up grayscale (3x4) sebanyak 4 lembar dengan background putih, berdasi dan ber jas ( __WARNING:__ bukan jas hujan). Foto tersebut dicetak (atau di print) di kertas dof (tidak mengkilap), ditulis nama dan NRP di balik masing-masing lembarnya, dan diletakkan dalam plastik kecil.
 * Sertifikat/surat keterangan lulus TOEFL dari UPT bahasa dengan nilai lebih besar atau sama dengan 477. Yang diberikan adalah sertifikat TOEFL asli (bukan fotocopy). Anda harus menyiapkan minimal 2 sertifikat/surat asli. Yang pertama digunakan di sini, yang lain akan diserahkan ke pascasarjana pusat ITS 
@@ -166,11 +168,13 @@ Ada 13 persyaratan yang harus anda penuhi untuk ikut yudisium (di lembar resminy
 * Panduan watermark CD Perpus Pusat ada di http://digilib.its.ac.id/watermark/. Bacalah dengan seksama dan gunakan Acrobat X Pro dan PDFSam (Split and Merge) untuk mempermudah anda. 
 * Buat 1 PDF utuh dengan Word, kemudian split halamannya dg PDFSam. Gunakan Acrobat X Pro sesuai panduan, dan pastikan file dibawah 5 Mb. 
 * Gunakan save as-Reduced file di Acrobat X Pro untuk mengecilkan file (rata2 bisa dibawah 2 Mb)
-* Bukti bebas perpus pusat. Siapkan Buku dan CD. Datanglah ke ruang pengadaan di Lt 1 Perpus Pusat (dari pintu utama belok ke kanan, pintu kedua di sebelah kiri). Anda menyerahkan Buku dan mendapatkan form yang harus ditandatangani oleh 5 orang berbeda di 5 lantai yang berbeda pada perpustakaan pusat.
+* Bukti bebas perpus pusat. Siapkan Buku dan CD. Burn CD dengan sistem multisession agar bisa dihapus/tulis apabila ada revisi
+* Datanglah ke ruang pengadaan di Lt 1 Perpus Pusat (dari pintu utama belok ke kanan, pintu kedua di sebelah kiri). Anda menyerahkan Buku dan mendapatkan form yang harus ditandatangani oleh 5 orang berbeda di 5 lantai yang berbeda pada perpustakaan pusat.
 * Kalau anda beruntung dan digilib sedang lancar, anda bisa langsung mengupload digilib dan mendapatkan tandatangan pertama.
 * Kalau anda sedang tidak beruntung, Digilib macet. Anda tidak dapat mengupload data ke digilib dan anda harus menyerahkan CD ke ruang komputer (Lt 1, sebelah kiri dari pintu masuk). Titipkan tas dengan menyerahkan KTP (atau kalo tidak mau repot, jangan bawa tas) baru boleh masuk menyerahkan CD. 
 * Sistem di ruang komputer adalah sistem antrian. Jika Digilib macet dan R. komputer antri/ramai, skip R Komputer terlebih dahulu dan pergilah ke Lt 3 dan 4. Anda bisa mendapatkan 4 tanda tangan di kedua lantai ini. Baru setelah anda selesai dari lt 4, anda bisa kembali ke Lt. 1
-* Semakin mendekati hari penghakiman (baca: deadline yudisium), biasanya R. Komputer makin ramai, pastikan anda datang beberapa hari lebih awal. Satu hari, R. Komputer dapat memeriksa sekitar 50-75 CD. Apabila anda revisi, anda bisa skip antrian (langsung dicek).
+* Semakin mendekati hari penghakiman (baca: deadline yudisium), biasanya R. Komputer makin ramai, pastikan anda datang beberapa hari lebih awal. Satu hari, R. Komputer dapat memeriksa sekitar 50-75 CD. Apabila anda revisi, setelah memperbaiki CD, anda bisa skip antrian (langsung dicek).
+* Total waktu dari sidang hingga yudisium Jurusan adalah sekitar 2 minggu. 7 hari kerja adalah waktu optimal untuk menyelesaikan 12 syarat diluar waktu menunggu jadwal ujian TOEFL dan sertifikatnya.
 
 Semua syarat itu harus anda serahkan kembali ke sekertariat pascasarjana informatika ITS. Selamat, anda telah berhasil mendapatkan tiket menuju graha ITS.
 
