@@ -95,7 +95,8 @@ Bagian 01. Kuliah
 
 Bagian 02. Proposal Tesis
 ======================
-* Tesis bisa anda ajukan di semester 2 dst. Proposal tesis sebaiknya diambil satu semester sebelum anda mengambil tesis (terkadang memungkinkan untuk diambil bersamaan, tetapi lebih baik tidak). 
+* MK Pratesis bisa anda ambil di semester 2 dst. Proposal tesis sebaiknya diambil satu semester sebelum anda mengambil tesis (terkadang memungkinkan untuk diambil bersamaan, tetapi lebih baik tidak). 
+* Pastikan anda sudah mengambil MK Pratesis saat anda memutuskan untuk ikut sidang proposal Tesis.
 * Sebaiknya, anda serius waktu membuat proposal tesis di mata kuliah Metpen, sehingga proposal tersebut bisa menjadi proposal tesis yang sesungguhnya. Sebelum mengajukan tesis, hubungi dosen pembimbing yang anda incar (atau yang menawarkan diri dan memberikan topik untuk membimbing anda).
 * Proposal tesis yang sudah jadi, dan disetujui oleh dosen pembimbing ( __WARNING:__ Jangan dijilid dulu) bisa diajukan untuk seminar/ujian proposal ( __WARNING:__ Dress code: kemeja putih, bawahan hitam). Yang harus anda siapkan untuk ujian ini adalah presentasi dan mental :D. Dalam ujian ini, anda akan didampingi oleh dosen pembimbing, dan dihadapkan pada dewan penguji (3 orang).
 * Buku yang wajib disiapkan untuk sidang ini adalah jumlah dosen pembimbing + 3. Opsional: +1 supaya anda bisa membawa draft juga.
